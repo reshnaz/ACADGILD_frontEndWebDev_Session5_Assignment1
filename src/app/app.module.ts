@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { RootComponent } from './app.component';
 
-
+// Mentioning component RootComponent in NgModule
 @NgModule({
   declarations: [
     RootComponent
